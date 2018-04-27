@@ -1,0 +1,44 @@
+{
+  "name": "gulp-chsi-rev",
+  "version": "1.1.2",
+  "description": "基于gulp的插件，静态资源后面添加时间戳作为版本号，达到去缓存的作用。",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/huanghui8030/gulp-chsi-rev"
+  },
+  "keywords": [
+    "gulpplugin",
+    "chsi rev",
+    "gulp",
+    "gulp rev",
+    "rev"
+  ],
+  "author": {
+      "name":"huanghui",
+      "email":"huanghui8030@qq.com"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.0",
+    "through2": "^0.6.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.0",
+    "through2": "^0.6.1"
+  },
+ "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.0",
+    "through2": "^0.6.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huanghui8030/gulp-chsi-rev/issues"
+  },
+  "homepage": "https://github.com/huanghui8030/gulp-chsi-rev#readme"
+}
