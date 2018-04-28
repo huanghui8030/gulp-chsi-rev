@@ -99,7 +99,6 @@ body{background:url("../images/bg.png?v=1482737522923")}
 - v1.0.1 删除掉无用的注释
 - v1.0.0 初版，添加时间戳版本号
 
-> 主要参考：[gulp-rev](https://www.npmjs.com/package/gulp-rev) 来完成的。
     
 
 
